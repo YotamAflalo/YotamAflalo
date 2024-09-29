@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Data Scientist with a Master’s degree in Economics, and 5 years of experience as a legal advisor and lawyer<br>Likes to build knowledge graph based systems, and RAG for organizations
 
