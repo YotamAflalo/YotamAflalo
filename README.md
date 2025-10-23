@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist with a Master’s degree in Economics, and 6 years of experience as a legal advisor and lawyer, and currntly a lead software engineer at Migdal <br>Likes to build knowledge graph based systems, and RAG for organizations
+Data Scientist with a Master’s degree in Economics, and 6 years of experience as a legal advisor and lawyer, and currently a lead software engineer at Migdal <br>Likes to build knowledge graph based systems, and RAG for organizations
 
 
 ## 🌐 Socials:
